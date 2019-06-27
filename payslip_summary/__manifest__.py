@@ -16,6 +16,7 @@
     'data': [       
         'wizard/pay_slip_summary_view.xml'
     ],
+	'images': ['images/main_1.png',  'images/main_screenshot.png'],
     'installable': True,
     'auto_install': False,
 }
