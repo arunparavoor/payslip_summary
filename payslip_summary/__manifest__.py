@@ -11,7 +11,7 @@
     'maintainer': 'Arun Reghu Kumar',
     'depends': [
         'hr_contract',        
-        'hr_payroll','sale',
+        'hr_payroll'
     ],
     'data': [       
         'wizard/pay_slip_summary_view.xml'
