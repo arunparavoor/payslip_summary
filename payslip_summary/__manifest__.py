@@ -3,7 +3,8 @@
     'name': 'Payslip Summary Report',
 	'category': 'Human Resources',
     'author':'Arun Reghu Kumar',
-    'version': '0.1', 
+    'version': '0.1',
+    'license': "AGPL-3",
     'description': """    
     Payslip Summary Report - Generate summary of payslips for the specified period. This will highlight all the changes from previous month.
 
